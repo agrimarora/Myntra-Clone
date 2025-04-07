@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942124303193",
+    "project_id": "myntraadminapp",
+    "storage_bucket": "myntraadminapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942124303193:android:2599ce4f69e0a25ae2c248",
+        "android_client_info": {
+          "package_name": "com.example.myntra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0BxJcLRpHgEuuvcPxZVsln3KwtM2gZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942124303193:android:c6b6cf8d83a3d34de2c248",
+        "android_client_info": {
+          "package_name": "com.example.myntraadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0BxJcLRpHgEuuvcPxZVsln3KwtM2gZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

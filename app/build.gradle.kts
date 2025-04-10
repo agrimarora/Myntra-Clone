@@ -98,6 +98,7 @@ dependencies {
     implementation(libs.coil.compose)
     implementation ("androidx.compose.material:material:+")
     implementation(kotlin("script-runtime"))
+    implementation("com.google.android.gms:play-services-maps:18.2.0")
 }
 kapt {
     correctErrorTypes = true

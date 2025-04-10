@@ -1,5 +1,6 @@
 package com.example.myntra
 
+import App
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -11,7 +12,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.myntra.presentatiom.navigation.App
+
 import com.example.myntra.presentatiom.screens.SignupScreenUI
 import com.example.myntra.ui.theme.MyntraTheme
 import com.google.firebase.auth.FirebaseAuth

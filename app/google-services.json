@@ -12,7 +12,12 @@
           "package_name": "com.example.myntra"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "942124303193-r4dh6jjqivdc041cd3kqujqvkg3simer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAc0BxJcLRpHgEuuvcPxZVsln3KwtM2gZ4"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942124303193-r4dh6jjqivdc041cd3kqujqvkg3simer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
@@ -31,7 +41,12 @@
           "package_name": "com.example.myntraadmin"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "942124303193-r4dh6jjqivdc041cd3kqujqvkg3simer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAc0BxJcLRpHgEuuvcPxZVsln3KwtM2gZ4"
@@ -39,7 +54,41 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942124303193-r4dh6jjqivdc041cd3kqujqvkg3simer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942124303193:android:4fcbdf164f1b5d5ce2c248",
+        "android_client_info": {
+          "package_name": "com.example.myntraadmin2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942124303193-r4dh6jjqivdc041cd3kqujqvkg3simer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0BxJcLRpHgEuuvcPxZVsln3KwtM2gZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942124303193-r4dh6jjqivdc041cd3kqujqvkg3simer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

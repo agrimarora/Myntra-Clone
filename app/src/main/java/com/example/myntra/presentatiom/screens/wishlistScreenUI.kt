@@ -139,7 +139,7 @@ fun WishlistScreenUI(viewModel: ViewModel = hiltViewModel(),navController: NavHo
                                 modifier = Modifier.width(160.dp).height(60.dp),
                                 colors = ButtonDefaults.buttonColors(containerColor = customColor),
                             ) {
-                                Text(text = "Click here to browse product")
+                                Text(text = "Click to browse product")
                             }
 
                         }
